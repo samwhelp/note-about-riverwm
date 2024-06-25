@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [River](https://github.com/samwhelp/riverwm-adjustment/tree/main/prototype/main/river-config/Main) |
+| [River Config](https://github.com/samwhelp/riverwm-adjustment/tree/main/prototype/main/river-config/Main) |
 
 
 

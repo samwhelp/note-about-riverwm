@@ -32,7 +32,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Fedora River 探索筆記](https://samwhelp.github.io/note-about-fedora-river/) | [GitHub](https://github.com/samwhelp/note-about-fedora-river) |
 | [Ultramarine River 探索筆記](https://samwhelp.github.io/note-about-ultramarine-river/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-river) |
+| [Zig 探索筆記](https://samwhelp.github.io/note-about-zig/) | [GitHub](https://github.com/samwhelp/note-about-zig) |
 
 
 

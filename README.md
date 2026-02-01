@@ -20,6 +20,18 @@
 
 ## 微調腳本
 
+### river-wm
+
+| Quick Start |
+| ----------- |
+| [river-kwm-quick-start](https://github.com/samwhelp/river-kwm-quick-start) |
+| [river-zrwm-quick-start](https://github.com/samwhelp/river-zrwm-quick-start) |
+
+
+
+
+### river-classic
+
 | 微調腳本 |
 | -------- |
 | [River Config](https://github.com/samwhelp/riverwm-adjustment/tree/main/prototype/main/river-config/Main) |
@@ -31,7 +43,14 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
+| [Niri 探索筆記](https://samwhelp.github.io/note-about-niri/) | [GitHub](https://github.com/samwhelp/note-about-niri) |
+| [Mangowc 探索筆記](https://samwhelp.github.io/note-about-mangowc/) | [GitHub](https://github.com/samwhelp/note-about-mangowc) |
+| [Sway 探索筆記](https://samwhelp.github.io/note-about-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Fedora River 探索筆記](https://samwhelp.github.io/note-about-fedora-river/) | [GitHub](https://github.com/samwhelp/note-about-fedora-river) |
 | [Ultramarine River 探索筆記](https://samwhelp.github.io/note-about-ultramarine-river/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-river) |
 | [Zig 探索筆記](https://samwhelp.github.io/note-about-zig/) | [GitHub](https://github.com/samwhelp/note-about-zig) |

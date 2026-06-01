@@ -45,7 +45,7 @@
 | [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 | [Niri 探索筆記](https://samwhelp.github.io/note-about-niri/) | [GitHub](https://github.com/samwhelp/note-about-niri) |
-| [Mangowc 探索筆記](https://samwhelp.github.io/note-about-mangowc/) | [GitHub](https://github.com/samwhelp/note-about-mangowc) |
+| [Mangowm 探索筆記](https://samwhelp.github.io/note-about-mangowm/) | [GitHub](https://github.com/samwhelp/note-about-mangowm) |
 | [Sway 探索筆記](https://samwhelp.github.io/note-about-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
 
 
